@@ -1,0 +1,3 @@
+
+hello:
+	fpc hello.lpr
